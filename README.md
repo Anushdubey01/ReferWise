@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Gagan20-vis/Referral-System-with-User-Authentication-Using-Google-API.git
+   git clone https://github.com/Anushdubey01/authify-google-referral-system.git
    ```
 2. Navigate to the project directory:
    ```bash
