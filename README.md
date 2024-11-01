@@ -1,3 +1,4 @@
+---
 
 # Referral System with Google-Based User Authentication
 
@@ -26,7 +27,7 @@ To run this project locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Referral-System-with-User-Authentication-Using-Google-API
+   cd authify-google-referral-system
    ```
 3. Install dependencies for both the client and server:
    ```bash
@@ -73,3 +74,4 @@ Access the application at `http://localhost:your_client_port` in your browser.
 
 Contributions are welcome! Please feel free to open issues or submit pull requests. For more details, see the `CONTRIBUTING.md` file.
 
+--- 
